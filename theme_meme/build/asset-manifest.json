@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wp-content/themes/theme_meme/build/static/css/main.5af52358.css",
+    "main.js": "/wp-content/themes/theme_meme/build/static/js/main.56928dcd.js",
+    "static/js/787.ea4dbade.chunk.js": "/wp-content/themes/theme_meme/build/static/js/787.ea4dbade.chunk.js",
+    "index.html": "/wp-content/themes/theme_meme/build/index.html",
+    "main.5af52358.css.map": "/wp-content/themes/theme_meme/build/static/css/main.5af52358.css.map",
+    "main.56928dcd.js.map": "/wp-content/themes/theme_meme/build/static/js/main.56928dcd.js.map",
+    "787.ea4dbade.chunk.js.map": "/wp-content/themes/theme_meme/build/static/js/787.ea4dbade.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5af52358.css",
+    "static/js/main.56928dcd.js"
+  ]
+}
